@@ -1,0 +1,68 @@
+# Rider-specific files
+.idea/
+*.iml
+
+# Build and output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.gz
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# ASP.NET Core secrets
+secrets.json
+
+# Environment variables
+.env
+
+# Generated files
+*.generated.cs
+
+# Dependency directories
+node_modules/
+wwwroot/
+
+# Coverage and test results
+*.coverage
+*.coveragexml
+TestResults/
+
+# Ignore compiled files
+*.dll
+*.pdb
+*.exe
+
+# Ignore packages
+*.nupkg
+*.snupkg
+
+# Ignore lock files
+project.lock.json
+global.json
+
+# Ignore IDE-specific settings
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vspscc
+*.csproj.DotSettings
+*.csproj.DotSettings.user
